@@ -6,4 +6,49 @@ preview: "/images/covers/product_cover.jpg"
 archetype: photos
 ---
 
-![Picture 1](/images/code.png)
+<center>
+here are few example product photography works which i did while i was working for dpm company.
+<p>you can find these works and more my projects at <a href="https://dpm.eu/">www.dpm.eu</a> and at the <a href="https://fb.watch/bbuX4ocjuX/">dpm fanpage</a>.</P>
+<p>camera: sony α350 | sigma 17-50 2.8 ex dc</p>
+</center>
+<p>&nbsp;</p>
+
+![Picture 1](\images\photos\product\1.jpg)
+
+![Picture 1](\images\photos\product\2.jpg)
+
+![Picture 1](\images\photos\product\3.jpg)
+
+![Picture 1](\images\photos\product\4.jpg)
+
+![Picture 1](\images\photos\product\5.jpg)
+
+![Picture 1](\images\photos\product\6.jpg)
+
+![Picture 1](\images\photos\product\7.gif)
+
+![Picture 1](\images\photos\product\8.gif)
+
+![Picture 1](\images\photos\product\9.jpg)
+
+![Picture 1](\images\photos\product\10.jpg)
+
+![Picture 1](\images\photos\product\11.jpg)
+
+![Picture 1](\images\photos\product\12.jpg)
+
+![Picture 1](\images\photos\product\13.jpg)
+
+![Picture 1](\images\photos\product\14.gif)
+
+<!-- ![Picture 1](\images\photos\product\15.jpg) -->
+
+<!-- ![Picture 1](\images\photos\product\16.jpg) -->
+
+![Picture 1](\images\photos\product\17.gif). . . .![Picture 1](\images\photos\product\18.gif)
+
+![Picture 1](\images\photos\product\19.jpg)
+
+<center>
+you can find these works and more at <a href="https://dpm.eu/">www.dpm.eu</a> and at the <a href="https://fb.watch/bbuX4ocjuX/">dpm fanpage</a>.
+</center>

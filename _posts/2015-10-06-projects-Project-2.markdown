@@ -2,7 +2,7 @@
 layout: post
 title:  "Project 2"
 date:   2015-10-06 15:39:40
-preview: "/images/covers/code.png"
+preview: # "/images/covers/code.png"
 archetype: projects
 ---
 

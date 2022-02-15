@@ -6,6 +6,14 @@ preview: "/images/covers/ads-for-dpm-company_cover.jpg"
 archetype: graphic-design
 ---
 
+<center>
+here are few example advertising works which i did while i was working for dpm company.
+<p>you can find these works and more my projects at <a href="https://dpm.eu/">www.dpm.eu</a> and at the <a href="https://fb.watch/bbuX4ocjuX/">dpm fanpage</a>.</p>
+<p>used: adobe photoshop & lightroom classic</p>
+</center>
+<p>&nbsp;</p>
+
+
 ![Picture 1](\images\graphic-design\ads-for-dpm-company\1.jpg)
 
 ![Picture 2](\images\graphic-design\ads-for-dpm-company\2.jpg)
@@ -36,15 +44,13 @@ archetype: graphic-design
 
 ![Picture 15](\images\graphic-design\ads-for-dpm-company\15.jpg)
 
-![Picture 16](\images\graphic-design\ads-for-dpm-company\16.jpg)
+![Picture 20](\images\graphic-design\ads-for-dpm-company\20.jpg)
 
-![Picture 17](\images\graphic-design\ads-for-dpm-company\17.jpg)
+![Picture 16](\images\graphic-design\ads-for-dpm-company\16.jpg)
 
 ![Picture 18](\images\graphic-design\ads-for-dpm-company\18.jpg)
 
 ![Picture 19](\images\graphic-design\ads-for-dpm-company\19.jpg)
-
-![Picture 20](\images\graphic-design\ads-for-dpm-company\20.jpg)
 
 ![Picture 21](\images\graphic-design\ads-for-dpm-company\21.jpg)
 
@@ -54,16 +60,22 @@ archetype: graphic-design
 
 ![Picture 24](\images\graphic-design\ads-for-dpm-company\24.jpg)
 
+![Picture 17](\images\graphic-design\ads-for-dpm-company\17.jpg)
+
 ![Picture 25](\images\graphic-design\ads-for-dpm-company\25.jpg)
 
 ![Picture 26](\images\graphic-design\ads-for-dpm-company\26.jpg)
 
-![Picture 27](\images\graphic-design\ads-for-dpm-company\27.jpg)
+<!-- ![Picture 27](\images\graphic-design\ads-for-dpm-company\27.jpg) -->
 
 ![Picture 28](\images\graphic-design\ads-for-dpm-company\28.jpg)
 
-![Picture 29](\images\graphic-design\ads-for-dpm-company\29.jpg)
+<!-- ![Picture 29](\images\graphic-design\ads-for-dpm-company\29.jpg) -->
 
-![Picture 30](\images\graphic-design\ads-for-dpm-company\30.jpg)
+<!-- ![Picture 30](\images\graphic-design\ads-for-dpm-company\30.jpg) -->
 
 ![Picture 31](\images\graphic-design\ads-for-dpm-company\31.jpg)
+
+<center>
+you can find these works and more at <a href="https://dpm.eu/">www.dpm.eu</a> and at the <a href="https://fb.watch/bbsCKItiat/">dpm fanpage</a>.
+</center>

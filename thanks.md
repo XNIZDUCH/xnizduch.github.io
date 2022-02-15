@@ -4,7 +4,11 @@ title:
 permalink: /thanks/
 ---
 
-<center>I would like to thank the following people for all their help. <b>Thank you very much! <3 </b> </center>
-<p></p>
-*ali2key, Prince*
-<p></p>
+<center>
+I would like to thank the following people for all their help. <b>Thank you very much!</b> 
+<p>&nbsp;</p>
+
+<p><i>ali2key</i></p>
+<p><i>Prince</i></p>
+
+</center>

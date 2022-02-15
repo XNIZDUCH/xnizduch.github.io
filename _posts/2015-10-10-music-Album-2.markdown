@@ -1,11 +1,25 @@
 ---
 layout: post
-title:  "Album 2"
+title:  <center>the vault <i>demo</i></center>
 date:   2015-10-09 15:39:40
-preview: "/images/covers/avatar.png"
+preview: "/images/covers/the-vault-demo_cover.jpg"
 archetype: music
 ---
+![Picture 1](\images\music\the-vault-demo\1.jpg)
+<center>
+<p>first demo of our garage band.</p>
 
-![Picture 1](/images/code.png)
+voc: philo.log aka dave wild |
+guitar: bartłomiej niedźwiedź |
+bass: ziuta bello |
+perc: mikołaj lang
+<p>record: pgr studio records</p>
 
-To jest opis albumu pierwszego
+<p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/QwFmXOdcM7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/RpTOa3hwkp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/Jvd6DEmoVcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
