@@ -4,11 +4,11 @@ title:
 permalink: /about/
 ---
 
-**Philo.log** is my nickname on the web becouse it concerns my interests..
+**Philo.log** is my web nickname and it concerns to my interests...
 
-I studied, among others, Polish Philology (not only, however, as of today I have not finished any studies yet), and learned to appreciate the power of words. The word "philolog" comes from ancient Greece, from the combination of two words: __philos__ and __logos__. __Philos__ was recognized by the ancient Greeks as a specific kind of love, characterized by a very deep level of understanding and meaning. __Logos__ has a lot of interpretations and I encourage you to read about it, because it's very interesting. Loosely translated, it means **the lover of logos**.
+I studied, among others, Polish Philology (not only, however, as of today I haven't finished any studies yet), and there I undersand, to appreciate the power of words. The word *philolog* comes from ancient Greece, and it's the combination of two words: _philos_ and _logos_. _Philos_ was recognized by the ancient Greeks as a specific kind of love, characterized by a very deep level of understanding and meaning. _Logos_ has a lot of interpretations and I encourage you to read about it, because it's very interesting. Loosely translated, *philolog* means **the lover of logos** or **the lover of word**.
 
-On the other hand .__log__ is the file extension for an automatically produced file that contains a record of events from certain software and operating systems. The point of a log file is to keep track of what's happening behind the scenes of aplications, operating systems or web traffic. This relates to my interest of information technology, automation programming, and cybersecurity.
+On the other hand _.log_ is the file extension for an automatically produced file that contains a record of events from certain software and operating systems. The point of a _.log_ files is to keep track of what's happening behind the scenes of aplications, operating systems or web traffic. This relates to my interest of information technology, automation programming, and cybersecurity.
 
 **Philo Alexandrinus** is a Jewish thinker who lived in Alexandria in the first half of the first century BCE. Whether he really was a philosopher is a question still debated at length. At the beginning of the Roman Empire, especially for the Stoics and the Cynics, the fundamental task of a philosopher was the **construction of his own self**. 
 
