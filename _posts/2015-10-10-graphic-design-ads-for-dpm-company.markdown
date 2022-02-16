@@ -9,7 +9,7 @@ archetype: graphic-design
 <center>
 here are few example advertising works which i did while i was working for dpm company.
 <p>you can find these works and more my projects at <a href="https://dpm.eu/">www.dpm.eu</a> and at the <a href="https://fb.watch/bbuX4ocjuX/">dpm fanpage</a>.</p>
-<p>used: adobe photoshop & lightroom classic</p>
+<p>made with: adobe photoshop & lightroom classic</p>
 </center>
 <p>&nbsp;</p>
 
