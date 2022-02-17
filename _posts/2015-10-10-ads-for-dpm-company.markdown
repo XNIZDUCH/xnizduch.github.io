@@ -4,6 +4,8 @@ title:  <center> for dpm company </center>
 date:   2015-10-09 15:39:40
 preview: "/images/covers/ads-for-dpm-company_cover.jpg"
 archetype: graphic-design
+categories: graphic-design
+permalink: /:categories/:title
 ---
 
 <center>

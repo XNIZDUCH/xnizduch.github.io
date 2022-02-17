@@ -4,6 +4,9 @@ title:  <center>the vault <i>demo</i></center>
 date:   2015-10-09 15:39:40
 preview: "/images/covers/the-vault-demo_cover.jpg"
 archetype: music
+categories: music
+permalink: /:categories/:title
+
 ---
 ![Picture 1](\images\music\the-vault-demo\1.jpg)
 <center>

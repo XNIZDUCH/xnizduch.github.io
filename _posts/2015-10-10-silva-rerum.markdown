@@ -4,6 +4,9 @@ title:  <center> silva rerum </center>
 date:   2015-10-09 15:39:40
 preview: "/images/covers/silva-rerum_cover.jpg"
 archetype: music
+categories: music
+permalink: /:categories/:title
+
 ---
 ![Picture 1](\images\music\silva-rerum\1.jpg)
 <center>

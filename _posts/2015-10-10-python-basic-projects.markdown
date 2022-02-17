@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  <center>python basic projects</center>
+title:  python basic projects
 date:   2015-10-06 15:39:40
 preview: "/images/covers/python-basic-projects_cover.jpg"
 archetype: programming
+categories: programming
+permalink: /:categories/:title
 ---
 ![Picture 1](/images/programming/python-basic-projects/1.jpg)
 <center>

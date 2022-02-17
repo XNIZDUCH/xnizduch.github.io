@@ -4,6 +4,9 @@ title:  <center>the vault <i>wolności</i></center>
 date:   2015-10-09 15:39:40
 preview: "/images/covers/the-vault-wolnosci_cover.jpg"
 archetype: music
+categories: music
+permalink: /:categories/:title
+
 ---
 ![Picture 1](/images/music/the-vault-wolnosci/1.jpg)
 
