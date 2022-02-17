@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <center> buisness cards </center>
+title:  buisness cards
 date:   2015-10-09 15:39:40
 preview: "/images/covers/buisness-cards_cover.jpg"
 archetype: graphic-design

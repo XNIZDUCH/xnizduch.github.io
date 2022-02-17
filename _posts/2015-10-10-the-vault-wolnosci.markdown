@@ -8,10 +8,11 @@ categories: music
 permalink: /:categories/:title
 
 ---
+
 ![Picture 1](/images/music/the-vault-wolnosci/1.jpg)
 
 <center>
-<p>first ep with five tracs, whose leitmotif was enslavement and way to freedom</p>.
+<p>first ep with five tracs, whose leitmotif is enslavement and way to freedom</p>.
 
 voc: philo.log aka dave wild |
 guitar: bartłomiej niedźwiedź |

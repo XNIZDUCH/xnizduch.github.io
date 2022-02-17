@@ -6,9 +6,10 @@ preview: "/images/covers/silva-rerum_cover.jpg"
 archetype: music
 categories: music
 permalink: /:categories/:title
-
 ---
+
 ![Picture 1](\images\music\silva-rerum\1.jpg)
+
 <center>
 silva rerum is my old ambient music project, inspired by a feeling of melancholy
 <p>and nostalgia for primal nature.</p>

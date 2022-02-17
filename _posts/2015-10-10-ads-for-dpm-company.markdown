@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <center> for dpm company </center>
+title:  for dpm company
 date:   2015-10-09 15:39:40
 preview: "/images/covers/ads-for-dpm-company_cover.jpg"
 archetype: graphic-design

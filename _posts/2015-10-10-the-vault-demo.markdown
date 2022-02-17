@@ -8,7 +8,9 @@ categories: music
 permalink: /:categories/:title
 
 ---
+
 ![Picture 1](\images\music\the-vault-demo\1.jpg)
+
 <center>
 <p>first demo of our garage band.</p>
 
