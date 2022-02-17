@@ -8,6 +8,7 @@ logo: #"/images/logo/philolog_logo.png"
 url: "https://philolog.github.io/" # the base hostname & protocol for your site
 twitter_username: Philolog
 github_username:  Philolog
+google_analytics: G-4KMKFQMLFQ
 
 # Build settings
 markdown: kramdown
