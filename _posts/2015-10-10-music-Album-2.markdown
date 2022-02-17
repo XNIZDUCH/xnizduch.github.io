@@ -13,7 +13,7 @@ voc: philo.log aka dave wild |
 guitar: bartłomiej niedźwiedź |
 bass: ziuta bello |
 perc: mikołaj lang
-<p>record: pgr studio records</p>
+<p>recorded in 2015 at pgr studio records</p>
 
 <p>&nbsp;</p>
 <iframe width="400" height="225" src="https://www.youtube.com/embed/QwFmXOdcM7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
