@@ -6,7 +6,6 @@ preview: "/images/covers/buisness-cards_cover.jpg"
 archetype: graphic-design
 categories: graphic-design
 permalink: /:categories/:title
-
 ---
 
 ![Picture 1](\images\graphic-design\buisness-cards\1.jpg)
