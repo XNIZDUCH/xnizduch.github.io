@@ -9,7 +9,7 @@ permalink: /:categories/:title
 ---
 
 <center>
-<p>leaflet project for burger shop</a>.</P>
+<p>leaflet project for burger shop.</P>
 <p>format: a4 in half</p>
 </center>
 <p>&nbsp;</p>
@@ -17,6 +17,10 @@ permalink: /:categories/:title
 ![Picture 1](\images\graphic-design\leaflets\1.jpg)
 
 ![Picture 2](\images\graphic-design\leaflets\2.jpg)
+
+![Picture 3](\images\graphic-design\leaflets\3.jpg)
+
+![Picture 4](\images\graphic-design\leaflets\4.jpg)
 
 
 <center>
