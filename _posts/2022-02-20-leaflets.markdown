@@ -1,0 +1,24 @@
+---
+layout: post
+title:  <center> leaflets </center>
+date:   2015-10-09 15:39:40
+preview: "/images/covers/leaflets_cover.jpg"
+archetype: graphic-design
+categories: graphic-design
+permalink: /:categories/:title
+---
+
+<center>
+<p>leaflet project for burger shop</a>.</P>
+<p>format: a4 in half</p>
+</center>
+<p>&nbsp;</p>
+
+![Picture 1](\images\graphic-design\leaflets\1.jpg)
+
+![Picture 2](\images\graphic-design\leaflets\2.jpg)
+
+
+<center>
+best burgers in Cracov! check this on<a href="https://www.luckyfood-burger.pl/">lucky food burger website</a>.
+</center>
