@@ -10,7 +10,8 @@ I would like to thank the following people for all their help. <b>Thank you very
 
 <p><i>ali2key</i></p>
 <p><i>Prince</i></p>
-<p><i>Wyrocznia</i></p>
+<p><i>wyrocznia</i></p>
 <p><i>deimos</i></p>
+<p><i>codesecurely</i></p>
 
 </center>
