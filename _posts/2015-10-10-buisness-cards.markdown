@@ -3,8 +3,8 @@ layout: post
 title:  buisness cards
 date:   2015-10-09 15:39:40
 preview: "/images/covers/buisness-cards_cover.jpg"
-archetype: graphic-design
-categories: graphic-design
+archetype: graphic
+categories: graphic
 permalink: /:categories/:title
 ---
 

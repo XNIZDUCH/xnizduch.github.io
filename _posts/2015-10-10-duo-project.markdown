@@ -3,8 +3,8 @@ layout: post
 title:  duo project
 date:   2015-10-09 15:39:40
 preview: "/images/covers/duo_cover.jpg"
-archetype: graphic-design
-categories: graphic-design
+archetype: graphic
+categories: graphic
 permalink: /:categories/:title
 ---
 

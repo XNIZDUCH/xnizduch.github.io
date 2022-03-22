@@ -3,8 +3,8 @@ layout: post
 title:  <center> product </center>
 date:   2015-10-09 15:39:40
 preview: "/images/covers/product_cover.jpg"
-archetype: photos
-categories: photos
+archetype: photo
+categories: photo
 permalink: /:categories/:title
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title:  for dpm company
 date:   2022-02-22 15:39:40
 preview: "/images/covers/ads-for-dpm-company_cover.jpg"
-archetype: graphic-design
-categories: graphic-design
+archetype: graphic
+categories: graphic
 permalink: /:categories/:title
 ---
 
