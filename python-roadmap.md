@@ -5,7 +5,7 @@ permalink: /python-roadmap/
 archetype: python-roadmap
 ---
 <center>
-    <h4>my roadmap of python learning ..</h4>
+    <h4><b>my roadmap of python learning..</b></h4>
     Below are my Learning Process and 100-Days-of-Python check table.<br /><br />Last update: 22.03.2022<br /><br />
 </center>
 

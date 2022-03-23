@@ -5,7 +5,7 @@ permalink: /thanks/
 ---
 
 <center>
-<h4>thanks..</h4>
+<h4><b>my thanks to..</b></h4>
 I would like to thank the following people for all their help. <b>Thank you very much!</b> 
 <p>&nbsp;</p>
 
