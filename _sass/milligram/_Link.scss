@@ -12,7 +12,8 @@
 
 a {
 	color: $color-primary;
-	text-decoration: none;
+	text-decoration-style: solid;
+	font-weight:bold
 
 	&:focus,
 	&:hover {

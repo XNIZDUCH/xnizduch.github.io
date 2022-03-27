@@ -10,7 +10,7 @@ permalink: /:categories/:title
 
 <center>
 here are few example product photography works which i did while i was working for dpm company.
-<p>you can find these works and more my projects at <a href="https://dpm.eu/">www.dpm.eu</a> and at the <a href="https://fb.watch/bbuX4ocjuX/">dpm fanpage</a>.</P>
+<p>you can find these works and more my projects at <a href="https://dpm.eu/"><b>www.dpm.eu</b></a> and at the <a href="https://fb.watch/bbuX4ocjuX/"><b>dpm fanpage</b></a>.</P>
 <p>camera: sony α350 | sigma 17-50 2.8 ex dc</p>
 </center>
 <p>&nbsp;</p>
@@ -52,5 +52,5 @@ here are few example product photography works which i did while i was working f
 ![Picture 1](\images\photos\product\19.jpg)
 
 <center>
-you can find these works and more at <a href="https://dpm.eu/">www.dpm.eu</a> and at the <a href="https://fb.watch/bbuX4ocjuX/">dpm fanpage</a>.
+you can find these works and more at <a href="https://dpm.eu/"><b>www.dpm.eu</b></a> and at the <a href="https://fb.watch/bbuX4ocjuX/"><b>dpm fanpage</b></a>.
 </center>
