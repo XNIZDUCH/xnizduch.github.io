@@ -18,6 +18,8 @@ at the beginning of 2022 i decided to master my python skills, so i did a big re
 <p>&nbsp;</p>
 <iframe frameborder="0" width="100%" height="900px" src="https://replit.com/@Philolog/BlackJack?embed=true"></iframe>
 <p>&nbsp;</p>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@Philolog/Quiz-Machine-for-OPEN-TRIVIA?embed=true"></iframe>
+<p>&nbsp;</p>
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@Philolog/Caesar-Cipher-with-unlimited-shift?embed=true"></iframe>
 <p>&nbsp;</p>
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@Philolog/PyPassword-generator?embed=true"></iframe>
