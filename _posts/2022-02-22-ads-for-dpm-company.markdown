@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  for dpm company
 date:   2022-02-22 15:39:40
 preview: "/images/covers/ads-for-dpm-company_cover.jpg"

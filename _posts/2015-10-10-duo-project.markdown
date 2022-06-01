@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  duo project
 date:   2015-10-09 15:39:40
 preview: "/images/covers/duo_cover.jpg"

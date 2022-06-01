@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  python basic projects
 date:   2015-10-06 15:39:40
 preview: "/images/covers/python-basic-projects_cover.jpg"

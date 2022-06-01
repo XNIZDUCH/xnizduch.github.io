@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  <center>the vault <i>wolności</i></center>
 date:   2015-10-09 15:39:40
 preview: "/images/covers/the-vault-wolnosci_cover.jpg"
