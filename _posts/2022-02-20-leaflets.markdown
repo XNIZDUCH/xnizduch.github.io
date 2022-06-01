@@ -9,8 +9,7 @@ permalink: /:categories/:title
 ---
 
 <center>
-<p>leaflet projects..</p>
-
+<br/>
 <b>leaflet for burger shop</b><br/>
 format: a4 in half
 </center>
