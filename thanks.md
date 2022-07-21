@@ -14,5 +14,6 @@ I would like to thank the following people for all their help. <b>Thank you very
 <p><i>wyrocznia</i></p>
 <p><i>deimos</i></p>
 <p><i>codesecurely</i></p>
+<p><i>Anka</i></p>
 
 </center>
