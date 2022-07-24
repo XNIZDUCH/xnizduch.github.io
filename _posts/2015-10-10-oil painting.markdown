@@ -11,6 +11,10 @@ permalink: /:categories/:title
 
 </center>
 
-![Picture 1](\images\graphic-design\oil-painting\DAB-I-GWIAZDA.jpg)
+![Picture 1](\images\graphic-design\oil-painting\DAB-I-GWIAZDA-view.jpg)
 
-![Picture 2](\images\graphic-design\oil-painting\XAVIER.jpg)
+![Picture 2](\images\graphic-design\oil-painting\DAB-I-GWIAZDA.jpg)
+
+![Picture 3](\images\graphic-design\oil-painting\XAVIER-view.jpg)
+
+![Picture 4](\images\graphic-design\oil-painting\XAVIER.jpg)
