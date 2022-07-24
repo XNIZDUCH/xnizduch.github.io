@@ -9,7 +9,7 @@ permalink: /:categories/:title
 ---
 
 <center>
-here are few example product photography works which i did while i was working for dpm company.
+here are few example product photography work which i did while i was working for dpm company.
 <p>you can find these works and more my projects at <a href="https://dpm.eu/"><b>www.dpm.eu</b></a> and at the <a href="https://fb.watch/bbuX4ocjuX/"><b>dpm fanpage</b></a>.</P>
 <p>camera: sony α350 | sigma 17-50 2.8 ex dc</p>
 </center>

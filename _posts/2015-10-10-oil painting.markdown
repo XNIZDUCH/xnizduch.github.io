@@ -8,6 +8,9 @@ categories: graphic
 permalink: /:categories/:title
 ---
 <center>
-in progress..
+
 </center>
-<!-- ![Picture 1](\images\graphic-design\buisness-cards\1.jpg) -->
+
+![Picture 1](\images\graphic-design\oil-painting\DAB-I-GWIAZDA.jpg)
+
+![Picture 2](\images\graphic-design\oil-painting\XAVIER.jpg)
