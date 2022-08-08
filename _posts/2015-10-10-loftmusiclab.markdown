@@ -40,6 +40,7 @@ prod. Philo.log aka STRCH
 <p>&nbsp;</p>
 <iframe width="400" height="225" src="https://www.youtube.com/embed/h15gxZ1a18w" title="DONCORALESCO X KRET --- _FREESTYLE_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/XyJcO_E9Xmo" title="Kretek - nie ma miłości (VIDEO by PPJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
