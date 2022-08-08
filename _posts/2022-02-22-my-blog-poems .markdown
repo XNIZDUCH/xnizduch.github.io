@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Szuflada Dave'a
+title: Szuflada Dave'a
 date:   2022-02-22 15:39:40
 archetype: text
 categories: text
