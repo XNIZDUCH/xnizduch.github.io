@@ -13,19 +13,33 @@ permalink: /:categories/:title
 loft music lab is my home recording studio.
 <br/>
 here you can find my realization of recordings, mix/master projects, and beats.
+
+<p>&nbsp;</p>
 <br/>
 <br/>
 
+<b>beats:</b>
+<br/>
+prod. Philo.log aka STRCH
+<br/>
+<br/>
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/WsWXLmIo6KI" title="EVANS (prod. STRCH)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/z8aWRQ-Ay78" title="BAKER (prod. STRCH)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
+<br/>
+<br/>
 <p><b>K43T:</b></p>
 
-<p><iframe width="400" height="225" src="https://www.youtube.com/watch?v=oQ0-OOcSF5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p><iframe width="400" height="225" src="https://www.youtube.com/watch?v=dCf-5Zlaf4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p><iframe width="400" height="225" src="https://www.youtube.com/watch?v=WrDtym_l2Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p><iframe width="400" height="225" src="https://www.youtube.com/watch?v=h15gxZ1a18w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
+<iframe width="400" height="225" src="https://www.youtube.com/embed/oQ0-OOcSF5M" title="KRET - ZADYMIONY GARAŻ (prod. RUSS TYLER) (video by. Ptaki Studio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/dCf-5Zlaf4w" title="EMKA X KRET - DOŚĆ TEGO (VIDEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/WrDtym_l2Jc" title="Kretek - Amigo Weed Freestyle (VIDEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/h15gxZ1a18w" title="DONCORALESCO X KRET --- _FREESTYLE_" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>&nbsp;</p>
 </center>
 
 
