@@ -7,7 +7,7 @@ categories: text
 permalink: /:categories/:title
 ---
 <center>
-short story for TOMAR company.
+short story for <a href="https://sklep.tomarsport.pl/"><b>TOMAR</b></a> company.
 
 <br/>
 <br/>
