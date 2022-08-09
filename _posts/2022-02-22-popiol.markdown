@@ -6,6 +6,10 @@ archetype: text
 categories: text
 permalink: /:categories/:title
 ---
+<br/>
+<br/>
+<br/>
+
 
 <h5>
 

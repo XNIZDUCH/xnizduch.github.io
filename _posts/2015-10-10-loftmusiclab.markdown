@@ -14,7 +14,7 @@ loft music lab is my home recording studio.
 <br/>
 here you can find my realization of recordings, mix/master projects, and beats.
 
-<p>&nbsp;</p>
+<br/>
 <br/>
 <br/>
 
@@ -27,10 +27,16 @@ prod. Philo.log aka STRCH
 <iframe width="400" height="225" src="https://www.youtube.com/embed/WsWXLmIo6KI" title="EVANS (prod. STRCH)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
 <iframe width="400" height="225" src="https://www.youtube.com/embed/z8aWRQ-Ay78" title="BAKER (prod. STRCH)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p>&nbsp;</p>
 <br/>
 <br/>
-<p><b>K43T:</b></p>
+
+<b>K43T:</b>
+<br/>
+mix/master by loft music lab
+<br/>
+<br/>
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/oQ0-OOcSF5M" title="KRET - ZADYMIONY GARAŻ (prod. RUSS TYLER) (video by. Ptaki Studio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
