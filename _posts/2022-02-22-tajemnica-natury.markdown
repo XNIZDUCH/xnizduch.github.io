@@ -32,7 +32,7 @@ To była forma jej osobistej medytacji. Magiczny moment wzniesienia do świata "
 - Widzę Chuck! to Stary Młyn! Chodźmy poszukać Starego Młynarza.
 
 <p style="text-indent: 6%; ">
-Młyn był zbudowany z ogormynch kamieni, sklejonych szarą zaprawą cementową. Na wzgórzu stał drewniany wiatrak, który głośno skrzypiał. Na dole woda przelewała się przez konstruckję z desek spokojnie i z wielką siłą. Małgosia pewną ręką zapukała po trzykroć w wielkie drewniane drzwi (wedle wcześniejszych wskazówek).
+Młyn był zbudowany z ogormynch kamieni, sklejonych szarą zaprawą cementową. Na wzgórzu stał drewniany wiatrak, który głośno skrzypiał. Na dole woda przelewała się przez konstruckję z desek spokojnie i z wielką siłą. Dziewczyna pewną ręką zapukała po trzykroć w wielkie drewniane drzwi (wedle wcześniejszych wskazówek).
 
 <br/>
 <br/>
