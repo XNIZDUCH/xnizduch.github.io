@@ -6,7 +6,7 @@ permalink: /about/
 
 <center>
 <h4><b>about..</b></h4>
-<p><b>Philo.log</b> is my web nickname and it refers to my interests and values...</p>
+<p><b>Philo.log</b>, <b>Philo</b> or <b>Phi</b> is my web nickname and it refers to my interests and values...</p>
 
 <p>I'm student of Polish Philology, and there I'm learning to appreciate the power of words. The word <i>philolog</i> comes from ancient Greece, and it's the combination of two words: <i>philos</i> and <i>logos</i>. <i>Philos</i> was recognized by the ancient Greeks as a specific kind of love, characterized by a very deep level of understanding and meaning. <i>Logos</i> has a lot of interpretations and really encourage you, to <a href="https://en.wikipedia.org/wiki/Logos">read about it</a>, because it's very interesting concept, and i think it's must-know basic philosophy knowledge. Loosely translated, <i>philolog</i> means <b>the lover of logos</b> or simpliest <b>the lover of words</b>.</p>
 
