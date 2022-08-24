@@ -7,14 +7,18 @@ archetype: graphic
 categories: graphic
 permalink: /:categories/:title
 ---
-<center>
 
-</center>
+<p>&nbsp;</p>
 
-![Picture 1](\images\graphic-design\oil-painting\DAB-I-GWIAZDA-view.jpg)
+<center><p>"NEWBORN" <br/> oil on pine board</p></center>
 
-![Picture 2](\images\graphic-design\oil-painting\DAB-I-GWIAZDA.jpg)
+![Picture 1](\images\graphic-design\oil-painting\NEWBORN.jpg)
+<p>&nbsp;</p>
+
+<center><p>"XAVIER" <br/> oil on pine board</p></center>
+
+![Picture 2](\images\graphic-design\oil-painting\XAVIER.jpg)
 
 ![Picture 3](\images\graphic-design\oil-painting\XAVIER-view.jpg)
+<p>&nbsp;</p>
 
-![Picture 4](\images\graphic-design\oil-painting\XAVIER.jpg)
