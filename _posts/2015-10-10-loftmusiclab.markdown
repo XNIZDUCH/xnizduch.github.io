@@ -18,9 +18,7 @@ here you can find my realization of recordings, mix/master projects, and beats.
 <br/>
 <br/>
 
-<b>beats:</b>
-<br/>
-prod. Philo.log aka STRCH
+<b>beats by loft music lab:</b>
 <br/>
 <br/>
 
