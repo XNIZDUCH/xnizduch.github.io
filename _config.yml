@@ -1,13 +1,13 @@
 # Site settings
 title: PORTFOLIO
-email: write.to.philo.log@gmail.com
+email: XNIZDUCH@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Philo.log
+  XNIZDUCH
 baseurl: "" # the subpath of your site, e.g. /blog
 logo: #"/images/logo/philolog_logo.png"
-url: "https://www.philolog.pl/" # the base hostname & protocol for your site
-twitter_username: Philolog
-github_username:  Philolog
+url: "www.dawidchudzinski.pl" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  XNIZDUCH
 google_analytics: G-4KMKFQMLFQ
 
 # Build settings
