@@ -7,27 +7,22 @@ categories: text
 permalink: /:categories/:title
 ---
 <br/>
-
 <h5>
-
 <p style="text-indent: 6%; ">
 
-
-<br/>
-<br/>
-	W jessiennej myśli zgniliźnie
-	zaklina-dusza:
-	
-	ginąca w bliźnie przeszłości
-	do roślin wiodła mnie
-	żar-głusza
-	wilgotnych i ciężkich
-	spalonych tchem potęga entym
-	dających widzenie tym
-	będącym w świecie sennych
-	myśli, kruszących kamienie
-	obrosłe mchem ułudy
-	omszałe pleśnią cienie
-	wilgotne i ciężkie
-	spalone tchem korzenie
+	W jessiennej myśli zgniliźnie<br/>
+	zaklina-dusza:<br/>
+	<br/>
+	ginąca w bliźnie przeszłości<br/>
+	do roślin wiodła mnie<br/>
+	żar-głusza<br/>
+	wilgotnych i ciężkich<br/>
+	spalonych tchem potęga entym<br/>
+	dających widzenie tym<br/>
+	będącym w świecie sennych<br/>
+	myśli, kruszących kamienie<br/>
+	obrosłe mchem ułudy<br/>
+	omszałe pleśnią cienie<br/>
+	wilgotne i ciężkie<br/>
+	spalone tchem korzenie<br/>
 <br/>
