@@ -6,10 +6,9 @@ archetype: text
 categories: text
 permalink: /:categories/:title
 ---
-<br/>
 <h5>
 <p style="text-indent: 6%; ">
-
+<br/>
 	W jessiennej myśli zgniliźnie<br/>
 	zaklina-dusza:<br/>
 	<br/>
