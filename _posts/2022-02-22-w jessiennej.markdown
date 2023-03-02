@@ -15,7 +15,7 @@ permalink: /:categories/:title
 
 <br/>
 <br/>
-	W jesiennej myśli zgniliźnie
+	W jessiennej myśli zgniliźnie
 	zaklina-dusza:
 	
 	ginąca w bliźnie przeszłości
