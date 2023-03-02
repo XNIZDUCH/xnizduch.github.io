@@ -1,0 +1,28 @@
+---
+layout: page
+title:  Męczęnnic
+date:   2022-02-22 15:39:40
+archetype: text
+categories: text
+permalink: /:categories/:title
+---
+<h5>
+<p style="text-indent: 6%; ">
+<br/>
+	Na miękkim kolanie<br/>
+	pisane konanie,<br/>
+	nie Koran poznaje<br/>
+	lecz siebie<br/>
+	samego.<br/>
+	<br/>
+	Je sień duszy mej;<br/>
+	zjada ją - smok,<br/>
+	niechaj wyżre chaj,<br/>
+	który ukryty w głębi<br/>
+	zostanie.<br/>
+	<br/>
+	Kim jestem? kogo poznaje?<br/>
+	kim pozostanę, a w co się zmienię?<br/>
+	tego Nikt wie,<br/>
+	to niewiedzą wszyscy.<br/>
+<br/>
