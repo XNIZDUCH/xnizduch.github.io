@@ -10,7 +10,7 @@ permalink: /:categories/:title
 <p style="text-indent: 6%; ">
 <br/>
 	Na miękkim kolanie<br/>
-	pisane konanie,<br/>
+	spisane konanie.<br/>
 	nie Koran poznaje<br/>
 	lecz siebie<br/>
 	samego.<br/>
