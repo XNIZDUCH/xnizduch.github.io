@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  W jesiennej
+title:  W jessiennej
 date:   2022-02-22 15:39:40
 archetype: text
 categories: text
